@@ -1,23 +1,24 @@
 ---
 layout: posts
-title: Test Post
+title: سید علی صالحی
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+کجا می‌روی حالا؟!
+بیا، هنوز تا کشف نشانی آن کوچه
+حرف ما بسیار و
+وقت ما اندک و
+آسمان هم بارانی‌ست!
+اصلا فرض که مردمان هنوز در خوابند،
+فرض که هیچ نامه‌ای هم به مقصد نرسید،
+فرض که بعضی از اینجا دور،
+حتی نان از سفره و کلمه از کتاب،
+شکوفه از انار و تبسم از لبانمان گرفته‌اند،
+با رویاهامان چه می‌کنند؟!
 
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+
 
 ---
 **Test**: This is atest
