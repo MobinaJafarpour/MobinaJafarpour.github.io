@@ -2,6 +2,8 @@
 layout: posts
 title: first post
 ---
+
+![alt text](../assets/images/triangle.png)
 <html>
     <head>
         <title>triangle</title>
