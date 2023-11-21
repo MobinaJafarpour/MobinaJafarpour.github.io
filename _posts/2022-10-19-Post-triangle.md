@@ -3,7 +3,7 @@ layout: posts
 title: first post
 ---
 
-![alt text](../assets/images/triangle.png)
+![alt text](../assets/images/triangle.png "triangle")
 <html>
     <head>
         <title>triangle</title>
@@ -11,8 +11,6 @@ title: first post
     <body>
         
         <h1 style="text-align: center;font-family:tahoma">Tringle</h1>
-        
-        <img src="triangle.png" alt="This is my triangle" width="500" height="333">
         
             <div style="font-size:larger;" dir="ltl">
                <pre>
