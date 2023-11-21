@@ -12,7 +12,7 @@ title: first post
         
         <img src="triangle.png" alt="This is my triangle" width="500" height="333">
         
-            <div style="font-weight: bold;font-size:larger;" dir="ltl">
+            <div style="font-size:larger;" dir="ltl">
                <pre>
                 import turtle
                 import random
