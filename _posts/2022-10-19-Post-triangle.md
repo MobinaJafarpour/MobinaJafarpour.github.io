@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: first post
+title: Triange
 ---
 
 ![alt text](../assets/images/triangle.png "triangle")

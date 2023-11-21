@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Courses"
-    url: /courses/
   - title: "Friends"
     url: /friends/
   - title: "Links"
